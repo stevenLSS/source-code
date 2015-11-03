@@ -1,2 +1,1 @@
-This is a project folder # source-code
-For LSS
+This is a project folder For LSS
